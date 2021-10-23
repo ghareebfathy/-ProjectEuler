@@ -1,4 +1,4 @@
-# -ProjectEuler
+# ProjectEuler
 What is Project Euler?
 From their website:
 
